@@ -1,2 +1,4 @@
-# ad-enterprise-lab
-Laboratorio de Active Directory empresarial con FortiGate, Windows Server (AD, DNS, DHCP), cliente Win10, GPOs y auditoría verificada con evidencia.
+> [!WARNING]
+> 🚧 **Proyecto en desarrollo**
+>
+> Este proyecto se encuentra actualmente en desarrollo. La documentación y el contenido se publicarán y actualizarán una vez que esté terminado. ¡Gracias por tu paciencia!
