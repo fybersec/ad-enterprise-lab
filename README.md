@@ -1,4 +1,4 @@
-# ad-enterprise-lab
+# Active Directory Enterprise Lab
 
 > Laboratorio de Active Directory empresarial sobre VMware Workstation Pro: un controlador de dominio Windows Server 2022 (AD DS, DNS, DHCP e IIS), un cliente Windows 10 Pro unido al dominio, restricciones por GPO y un firewall FortiGate que controla la salida a Internet.
 
